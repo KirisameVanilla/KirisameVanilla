@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hello World 👋
+
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning C#
+
+![Anurag's github stats](https://github-readme-stats-git-master-KirisameVanilla.vercel.app/api?username=KirisameVanilla&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats-git-master-KirisameVanilla.vercel.app/api/top-langs/?username=KirisameVanilla&hide=javascript,html,css)](https://github.com/KirisameVanilla/github-readme-stats)
 
 <!--
-**KirisameVanilla/KirisameVanilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LittleNightmare/LittleNightmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
