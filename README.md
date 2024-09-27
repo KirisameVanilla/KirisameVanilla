@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm KirisameVanilla</h1>
-<h3 align="center">A passionate learner from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirisamevanilla&label=Profile%20views&color=0e75b6&style=flat" alt="kirisamevanilla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirisamevanilla" alt="kirisamevanilla" /></a> </p>
+- 🌱 I’m currently working on **C#**
 
-- 🌱 I’m currently learning **C#**
-
-- 📫 How to reach me **vanillaaaajp@gmail.com**
+- 📫 How to reach me: **vanillaaaajp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,9 +14,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirisamevanilla&show_icons=true&locale=en&layout=compact" alt="kirisamevanilla" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirisamevanilla&show_icons=true&locale=en&layout=compact" alt="kirisamevanilla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirisamevanilla&show_icons=true&locale=en" alt="kirisamevanilla" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kirisamevanilla&show_icons=true&locale=en" alt="kirisamevanilla" /></p>
+
+<h3 align="left">Pinned Repos</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Makstein&repo=SnowbreakGachaExport)](https://github.com/Makstein/SnowbreakGachaExport)
 
