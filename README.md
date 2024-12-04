@@ -20,7 +20,7 @@
 
 <h3 align="left">Pinned Repos</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KirisameVanilla&repo=DailyRoutinesSampleModule)](https://github.com/KirisameVanilla/DailyRoutinesSampleModule)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KirisameVanilla&repo=DailyRoutinesPublic)](https://github.com/KirisameVanilla/DailyRoutinesPublic)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KirisameVanilla&repo=Radar)](https://github.com/KirisameVanilla/Radar)
 
