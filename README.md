@@ -12,29 +12,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       14 hrs 14 mins      ██████████████████░░░░░░░   72.47 % 
-Python                   1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Java                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+C#                       11 hrs 49 mins      ████████████████░░░░░░░░░   62.75 % 
+Python                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Vue.js                   2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Java                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🔥 Editors: 
-Visual Studio            13 hrs 58 mins      ██████████████████░░░░░░░   71.05 % 
-VS Code                  3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-WebStorm                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-IntelliJ IDEA            1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Cursor                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Visual Studio            11 hrs 32 mins      ███████████████░░░░░░░░░░   61.27 % 
+VS Code                  3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+WebStorm                 2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+IntelliJ IDEA            52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Cursor                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🐱‍💻 Projects: 
-MajdataPlay              14 hrs 25 mins      ██████████████████░░░░░░░   73.40 % 
-frontend                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-AutoWSGR                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-backend                  1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-examples                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+MajdataPlay              12 hrs 26 mins      ████████████████░░░░░░░░░   65.97 % 
+frontend                 2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+examples                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+AutoWSGR                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+backend                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 ```
 
 
- Last Updated on 02/04/2025 16:29:30 UTC
+ Last Updated on 03/04/2025 04:29:56 UTC
 <!--END_SECTION:waka-->
 
 
