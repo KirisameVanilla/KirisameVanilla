@@ -12,29 +12,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       11 hrs 1 min        ███████████████░░░░░░░░░░   61.59 % 
-Vue.js                   2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Java                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+C#                       11 hrs 1 min        ████████████████░░░░░░░░░   62.55 % 
+Vue.js                   2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Python                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Java                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 🔥 Editors: 
-Visual Studio            10 hrs 57 mins      ███████████████░░░░░░░░░░   61.15 % 
-WebStorm                 3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-VS Code                  2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-IntelliJ IDEA            56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Android Studio           17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Visual Studio            10 hrs 57 mins      ████████████████░░░░░░░░░   62.10 % 
+WebStorm                 3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+VS Code                  1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+IntelliJ IDEA            56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Android Studio           19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🐱‍💻 Projects: 
-MajdataPlay              11 hrs 25 mins      ████████████████░░░░░░░░░   63.82 % 
-frontend                 3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-backend                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-examples                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Unknown Project          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+MajdataPlay              10 hrs 50 mins      ███████████████░░░░░░░░░░   61.49 % 
+frontend                 3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+backend                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+examples                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Unknown Project          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 ```
 
 
- Last Updated on 06/04/2025 16:25:00 UTC
+ Last Updated on 07/04/2025 04:28:10 UTC
 <!--END_SECTION:waka-->
 
 
