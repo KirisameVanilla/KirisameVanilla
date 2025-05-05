@@ -26,28 +26,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       8 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.91 % 
-Python                   3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-XML                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Vue.js                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-PowerShell               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Python                   3 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.69 % 
+C#                       2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Vue.js                   1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+PowerShell               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 
 🔥 Editors: 
-Visual Studio            10 hrs 28 mins      ██████████████░░░░░░░░░░░   54.75 % 
-VS Code                  6 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.14 % 
-WebStorm                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-IntelliJ IDEA            22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+VS Code                  6 hrs 20 mins       ██████████████░░░░░░░░░░░   55.03 % 
+Visual Studio            3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+WebStorm                 1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+IntelliJ IDEA            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🐱‍💻 Projects: 
-MajdataPlayUpdater       9 hrs 54 mins       █████████████░░░░░░░░░░░░   51.79 % 
-majdataplay-distrib      3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-区块链基础                    2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-frontend                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-MajdataPlayUpdaterWinform27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+majdataplay-distrib      3 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.90 % 
+MajdataPlayUpdater       3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+区块链基础                    2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+frontend                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+backend                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 
 
- Last Updated on 04/05/2025 04:28:46 UTC
+ Last Updated on 05/05/2025 04:29:50 UTC
 <!--END_SECTION:waka-->
 
 
