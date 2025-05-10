@@ -26,29 +26,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-C#                       1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Vue.js                   1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-XML                      1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Java                     1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+C#                       1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+XML                      1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Vue.js                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   37.05 % 
-IntelliJ IDEA            1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-WebStorm                 1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-VS Code                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Cursor                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Visual Studio            2 hrs 39 mins       ███████████░░░░░░░░░░░░░░   44.34 % 
+IntelliJ IDEA            1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+WebStorm                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+VS Code                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Cursor                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🐱‍💻 Projects: 
-MajdataPlayUpdater       2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.24 % 
-backend                  1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-frontend                 1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-majdataplay-distrib      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-KomeijiHelper            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+MajdataPlayUpdater       2 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.66 % 
+backend                  1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   30.06 % 
+frontend                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Majdata-Online           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+majdataplay-distrib      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 
 
- Last Updated on 09/05/2025 04:29:37 UTC
+ Last Updated on 10/05/2025 04:28:41 UTC
 <!--END_SECTION:waka-->
 
 
