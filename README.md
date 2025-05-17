@@ -20,34 +20,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C#                       8 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.91 % 
-Python                   3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-XML                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Vue.js                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-PowerShell               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-
-🔥 Editors: 
-Visual Studio            10 hrs 28 mins      ██████████████░░░░░░░░░░░   54.75 % 
-VS Code                  6 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.14 % 
-WebStorm                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-IntelliJ IDEA            22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-
-🐱‍💻 Projects: 
-MajdataPlayUpdater       9 hrs 54 mins       █████████████░░░░░░░░░░░░   51.79 % 
-majdataplay-distrib      3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-区块链基础                    2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-frontend                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-MajdataPlayUpdaterWinform27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-```
-
-
- Last Updated on 04/05/2025 04:28:46 UTC
 <!--END_SECTION:waka-->
 
 
