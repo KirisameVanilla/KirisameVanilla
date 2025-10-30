@@ -21,7 +21,7 @@
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>15/7/2025 - NOW</b></td>
+    <td width="25%" valign="top"><b>15/7/2025 - 30/10/2025</b></td>
     <td width="30%" valign="top"><b>Python Developer of Industrial Software</b></td>
     <td width="45%" valign="top">
       <a href="https://www.ticpsh.com/en" target="_blank">Shanghai Trusted Industrial Control Platform Co., Ltd.</a>
