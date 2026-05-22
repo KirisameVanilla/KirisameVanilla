@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm KirisameVanilla</h1>
 
 <h2 align="center">
-	<a href="https://vanillaaaa.org/" target="_blank">雾雨之乡</a>
+ <a href="https://vanillaaaa.org/" target="_blank">雾雨之乡</a>
 </h2>
 
 <div align="center">
@@ -12,19 +12,22 @@
 
 <h2 align="center">Career</h2>
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td width="25%" valign="top"><b>22/7/2024 – 16/8/2024</b></td>
-    <td width="30%" valign="top"><b>Security Assessment Engineer (Backend)</b></td>
-    <td width="45%" valign="top">
-      <a href="https://www.xwbank.com/" target="_blank">Sichuan Xinwang Bank Co., Ltd.</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><b>15/7/2025 - 30/10/2025</b></td>
-    <td width="30%" valign="top"><b>Python Developer of Industrial Software</b></td>
-    <td width="45%" valign="top">
-      <a href="https://www.ticpsh.com/en" target="_blank">Shanghai Trusted Industrial Control Platform Co., Ltd.</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Period | Position | Company |
+| - | - | - |
+| Jul 2024 – Aug 2024 | Security Assessment Engineer (Backend) | [Sichuan Xinwang Bank Co., Ltd.](https://www.xwbank.com/) |
+| Jul 2025 – Nov 2025 | Python Developer of Industrial Software | [Shanghai Trusted Industrial Control Platform Co., Ltd.](https://www.ticpsh.com/en) |
+
+</div>
+
+<h2 align="center">Education</h2>
+
+<div align="center">
+
+| Period | Degree | Institution |
+| - | - | - |
+| 2022 – 2026 | Bachelor of Engineering | [East China Normal University](https://www.ecnu.edu.cn/) |
+| 2026 – Present | Master of Science | [New York University](https://www.nyu.edu/) |
+
+</div>
